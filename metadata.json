@@ -1,0 +1,8 @@
+{
+  "name": "HYM_YT",
+  "description": "Web oficial del canal de YouTube HYM_YT: gameplays, música y beats, retos, Shorts y comunidad en directo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
